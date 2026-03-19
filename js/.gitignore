@@ -1,0 +1,4 @@
+node_modules/
+.env
+# ensure local env files are ignored
+AIHistoryAgent/test4/.env
